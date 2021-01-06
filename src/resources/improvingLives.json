@@ -1,0 +1,244 @@
+{
+	"sections": [
+		{
+			"background": {
+				"type": "",
+				"source": "",
+				"animation": "",
+				"color": "#00506e"
+			},
+			"content": [
+				{
+					"type": "text",
+					"body": "Meeting point",
+					"fontSize": "30px",
+					"visibility": {
+						"mobile": "",
+						"desktop": ""
+					},
+					"position": {
+						"mobile": {
+							"vertical": "top|center",
+							"horizontal": ""
+						},
+						"desktop": {
+							"vertical": "position-absolute top-0 start-50 translate-middle-x",
+							"horizontal": "d-flex justify-content-start"
+						}
+					},
+					"style": {
+						"bold": "",
+						"link": "",
+						"background": "#FFF"
+					},
+					"animation": ""
+				},
+				{
+					"type": "text",
+					"body": "We are about to start the tour. Are you ready? Let’s go!",
+					"fontSize": "20px",
+					"visibility": {
+						"mobile": "",
+						"desktop": ""
+					},
+					"position": {
+						"mobile": {
+							"vertical": "top|center",
+							"horizontal": ""
+						},
+						"desktop": {
+							"vertical": "position-absolute top-0 start-50 translate-middle-x",
+							"horizontal": "d-flex justify-content-start"
+						}
+					},
+					"style": {
+						"bold": "",
+						"link": "",
+						"background": "#FFF"
+					},
+					"animation": ""
+				},
+				{
+					"type": "image",
+					"src": "https://live-bid-tourvirtual.pantheonsite.io/themes/custom/svelbid/images/edificio3d.png",
+					"size": "46%",
+					"visibility": {
+						"mobile": "",
+						"desktop": ""
+					},
+					"position": {
+						"mobile": {
+							"vertical": "",
+							"horizontal": ""
+						},
+						"desktop": {
+							"vertical": "",
+							"horizontal": "vertical-center start-50"
+						}
+					},
+					"animation": "scroll-vertical",
+					"animationSpeed": "3"
+				},
+				{
+					"type": "image",
+					"src": "https://live-bid-tourvirtual.pantheonsite.io/themes/custom/svelbid/images/shoes1.png",
+					"size": "15%",
+					"visibility": {
+						"mobile": "",
+						"desktop": ""
+					},
+					"position": {
+						"mobile": {
+							"vertical": "",
+							"horizontal": ""
+						},
+						"desktop": {
+							"vertical": "",
+							"horizontal": "horizontal-end vertical-top"
+						}
+					},
+					"animation": "scroll-horizontal",
+					"animationSpeed": "1"
+				},
+				{
+					"type": "image",
+					"src": "https://live-bid-tourvirtual.pantheonsite.io/themes/custom/svelbid/images/shoes2.png",
+					"size": "10%",
+					"visibility": {
+						"mobile": "",
+						"desktop": ""
+					},
+					"position": {
+						"mobile": {
+							"vertical": "",
+							"horizontal": ""
+						},
+						"desktop": {
+							"vertical": "",
+							"horizontal": "horizontal-end vertical-center"
+						}
+					},
+					"animation": "none",
+					"animationSpeed": "0.1"
+				},
+				{
+					"type": "image",
+					"src": "https://live-bid-tourvirtual.pantheonsite.io/themes/custom/svelbid/images/shoes3.png",
+					"size": "15%",
+					"visibility": {
+						"mobile": "",
+						"desktop": ""
+					},
+					"position": {
+						"mobile": {
+							"vertical": "",
+							"horizontal": ""
+						},
+						"desktop": {
+							"vertical": "",
+							"horizontal": "horizontal-end vertical-bottom"
+						}
+					},
+					"animation": "scroll-vertical",
+					"animationSpeed": "1"
+				}
+			]
+		},
+		{
+			"background": {
+				"type": "",
+				"source": "",
+				"animation": "",
+				"color": "#85776f"
+			},
+			"content": [{
+					"type": "text",
+					"body": "Our history",
+					"text": "We’ll tell you briefly about our history, so you get an idea of where we come from, how we got here, and where we’re heading to.",
+					"visibility": {
+						"mobile": "",
+						"desktop": ""
+					},
+					"position": {
+						"mobile": {
+							"vertical": "top|center",
+							"horizontal": ""
+						},
+						"desktop": {
+							"vertical": "position-absolute top-0 start-50 translate-middle-x",
+							"horizontal": "d-flex justify-content-start"
+						}
+					},
+					"style": {
+						"bold": "",
+						"link": "",
+						"background": "#FFF"
+					},
+					"animation": ""
+				},
+				{
+					"type": "image",
+					"src": "https://live-bid-tourvirtual.pantheonsite.io/themes/custom/svelbid/images/suitcase.png",
+					"size": "46%",
+					"visibility": {
+						"mobile": "",
+						"desktop": ""
+					},
+					"position": {
+						"mobile": {
+							"vertical": "",
+							"horizontal": ""
+						},
+						"desktop": {
+							"vertical": "",
+							"horizontal": "d-flex justify-content-center"
+						}
+					},
+					"animation": "rellax",
+					"animationSpeed": "data-rellax-speed='3'"
+				},
+				{
+					"type": "image",
+					"src": "https://live-bid-tourvirtual.pantheonsite.io/themes/custom/svelbid/images/suitcases.png",
+					"size": "15%",
+					"visibility": {
+						"mobile": "",
+						"desktop": ""
+					},
+					"position": {
+						"mobile": {
+							"vertical": "",
+							"horizontal": ""
+						},
+						"desktop": {
+							"vertical": "",
+							"horizontal": "d-flex justify-content-end"
+						}
+					},
+					"animation": "data-aos='fade-left'"
+				},
+
+				{
+					"type": "image",
+					"src": "https://live-bid-tourvirtual.pantheonsite.io/themes/custom/svelbid/images/shoes3.png",
+					"size": "15%",
+					"visibility": {
+						"mobile": "",
+						"desktop": ""
+					},
+					"position": {
+						"mobile": {
+							"vertical": "",
+							"horizontal": ""
+						},
+						"desktop": {
+							"vertical": "",
+							"horizontal": "d-flex justify-content-end"
+						}
+					},
+					"animation": "data-aos='slide-up'"
+				}
+			]
+		}
+	]
+}
